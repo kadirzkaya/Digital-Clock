@@ -1,0 +1,29 @@
+*{
+    background-color: #b8a9c9;
+    font-size: 2rem;
+}
+
+.time{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 5px 5px 10px #a38989;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #622569;
+}
+
+.time h2{
+    background-color: #622569;
+
+}
+
+.clock{
+    color: #f2e394;
+    display: block;
+    text-align: center;
+    background-color: #622569;
+
+}
